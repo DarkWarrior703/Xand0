@@ -1,2 +1,2 @@
-# X and 0
+# TicTacToe
 This is my first class project. It is just a console game. 
